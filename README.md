@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Carlos Henrique Nunes 👋
+📝 Este meu perfil é dedicado a destacar os projetos mais significativos e bem-sucedidos que tive a oportunidade de realizar e desenvolver na área. Sinta-se bem-vindo a explorar essa trajetória de realizações!
 
 - 🔭 Hoje desenvolvendo em backend
 - 🌱 Estudando Java (avançado) com Spring Boot e outras ferramentas/frameworks
+- 🚀 Metas para este ano incluem realizar um novo curso para adquirir conhecimento em APIs REST/RESTful
 
 <div>
   <a href="https://github.com/CrMessiProgrammer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
