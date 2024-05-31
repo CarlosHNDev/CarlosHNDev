@@ -5,7 +5,7 @@
 - 🌱 Estudando Java (avançado) com Spring Boot e outras ferramentas/frameworks
 - 🚀 Metas para um futuro próximo incluem a realização de um curso para adquirir conhecimento em APIs REST/RESTful
 
-<p> Abaixo estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde ressalto de forma abrangente todas as experiências acumuladas na área, apresentando desde atividades simples até projetos de maior envergadura, inclusive aqueles já presentes nesta conta. </p>
+<p> Abaixo estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde ressalto de forma abrangente todas as experiências acumuladas na área, apresentando desde atividades mais simples até projetos de maior envergadura, inclusive aqueles já presentes nesta conta. </p>
 
 <div>
   <a href="https://github.com/CrMessiProgrammer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
